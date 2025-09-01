@@ -1,4 +1,4 @@
-# Indentifying-Landmarks-on-Mars
+# Martian Landmark Detection using CNNs
 
 • Developed a robust movie recommender system leveraging machine learning techniques, specifically utilizing cosine
 distance, to calculate similarity between movies. The system suggests 7-10 similar movies based on the user’s
